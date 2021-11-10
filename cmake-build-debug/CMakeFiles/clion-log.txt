@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\BlackFlage\OneDrive - Politechnika Wroclawska\C++\fur_wurk\stl_workshop_learning Select CMakeLists.txt
